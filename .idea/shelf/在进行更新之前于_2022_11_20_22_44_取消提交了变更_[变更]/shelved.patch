@@ -1,0 +1,33 @@
+Index: heima/src/com/day04/test8.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/heima/src/com/day04/test8.java b/heima/src/com/day04/test8.java
+new file mode 100644
+--- /dev/null	(date 1668955376884)
++++ b/heima/src/com/day04/test8.java	(date 1668955376884)
+@@ -0,0 +1,22 @@
++package com.day04;
++
++import java.util.Scanner;
++
++
++
++public class test8 {
++    public static void main(String[] args) {
++        Scanner sr=new Scanner(System.in);
++        System.out.print("输入被除数：");
++        int a =sr.nextInt();
++        System.out.print("输入除数：");
++        int b =sr.nextInt();
++        int i=0;
++        while (a>=b){
++            a=a-b;
++            i++;
++            // a=temp;
++        }
++        System.out.println("商"+i+"余数："+a);
++    }
++}
+\ No newline at end of file
