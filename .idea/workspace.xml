@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2309ac77-bfc2-4000-be6a-63427071ada1" name="变更" comment="Commit Message">
-      <change afterPath="$PROJECT_DIR$/heima/src/com/day04/do_while循环.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima/src/com/day04/判断质数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima/src/com/day04/跳出循环.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima/src/com/day04/逢7避过.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima/src/com/day04/作业1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima/src/com/day04/作业2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima/src/com/day03/逻辑运算符.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima/src/com/day03/逻辑运算符.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/heima/com/day03/逻辑运算符.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/heima/com/day03/逻辑运算符.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,16 +65,68 @@
     "project.structure.last.edited": "项目",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "vcs.Subversion"
+    "settings.editor.selected.configurable": "yiiguxing.plugin.translate"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.猜数字">
+  <component name="RunManager" selected="应用程序.作业3">
     <configuration name="跳出循环" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.day04.跳出循环" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="作业1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day04.作业1" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="逻辑运算符" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day03.逻辑运算符" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="作业2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day04.作业2" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="作业3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day04.作业3" />
       <module name="heima" />
       <extension name="coverage">
         <pattern>
@@ -138,52 +190,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day04.test6" />
-      <module name="heima" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.day04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day04.test7" />
-      <module name="heima" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.day04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day04.test8" />
-      <module name="heima" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.day04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.猜数字" />
+        <item itemvalue="应用程序.作业3" />
+        <item itemvalue="应用程序.作业2" />
+        <item itemvalue="应用程序.逻辑运算符" />
+        <item itemvalue="应用程序.作业1" />
         <item itemvalue="应用程序.跳出循环" />
-        <item itemvalue="应用程序.test8" />
-        <item itemvalue="应用程序.test7" />
-        <item itemvalue="应用程序.test6" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +220,8 @@
       <workItem from="1667869813975" duration="17000" />
       <workItem from="1667869843168" duration="276000" />
       <workItem from="1667958798747" duration="5424000" />
-      <workItem from="1668951334056" duration="4869000" />
+      <workItem from="1668951334056" duration="5218000" />
+      <workItem from="1668997705782" duration="3972000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1668955435585</created>
@@ -230,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668955736247</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commit Message">
+      <created>1668956768957</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668956768957</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

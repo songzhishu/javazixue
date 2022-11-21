@@ -15,6 +15,7 @@ public class 逻辑运算符 {
         System.out.println(false^false);//假
         System.out.println(!true);//假
         System.out.println(!false);//真
+        System.out.println(true&&false);
         //短路运算符 &&和|| 短路就是偷懒,只要左边的可以确定结果就不在判断右边的结果
 
     }
