@@ -2,11 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2309ac77-bfc2-4000-be6a-63427071ada1" name="变更" comment="Commit Message">
-      <change afterPath="$PROJECT_DIR$/heima/src/com/day04/作业1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima/src/com/day04/作业2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima/src/com/day04/if_else应用.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima/src/com/day04/个人所得税计算.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima/src/com/day04/判断闰年.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima/src/com/day04/猪年.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima/src/com/day04/珠穆朗玛峰.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima/src/com/day04/计算器.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/src/com/day03/逻辑运算符.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima/src/com/day03/逻辑运算符.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/heima/com/day03/逻辑运算符.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/heima/com/day03/逻辑运算符.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima/src/com/day03/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima/src/com/day03/求两个数的和.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima/src/com/day03/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima/src/com/day03/切割一个三位数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima/src/com/day03/test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima/src/com/day03/相亲.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima/src/com/day03/test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima/src/com/day03/看不出来.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima/src/com/day03/test5.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima/src/com/day03/三元运算符的应用.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima/src/com/day04/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima/src/com/day04/会员折扣if_else.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima/src/com/day04/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima/src/com/day04/工作日判断switch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima/src/com/day04/test3.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima/src/com/day04/for循环2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima/src/com/day04/test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima/src/com/day04/累加求和for循环.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima/src/com/day04/test5.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima/src/com/day04/累加求和偶数for循环.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima/src/com/day04/test6.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima/src/com/day04/区间求整除3和5的书.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima/src/com/day04/test7.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima/src/com/day04/判断是不是回合数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima/src/com/day04/test8.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima/src/com/day04/用减法实现除法.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima/src/com/day04/作业1.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima/src/com/day04/if_else判断1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima/src/com/day04/作业2.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima/src/com/day04/判断三个数最小值.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima/src/com/day04/作业3.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima/src/com/day04/switch应用1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/heima/com/day03/test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/heima/com/day03/test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/heima/com/day03/test3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/heima/com/day03/test4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/heima/com/day03/test5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/heima/com/day04/test1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/heima/com/day04/test2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/heima/com/day04/test3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/heima/com/day04/test4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/heima/com/day04/test5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/heima/com/day04/test6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/heima/com/day04/test7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/heima/com/day04/test8.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,9 +103,9 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.作业3">
-    <configuration name="跳出循环" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day04.跳出循环" />
+  <component name="RunManager" selected="应用程序.switch应用1">
+    <configuration name="判断是不是回合数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day04.判断是不是回合数" />
       <module name="heima" />
       <extension name="coverage">
         <pattern>
@@ -86,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="作业1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day04.作业1" />
+    <configuration name="用减法实现除法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day04.用减法实现除法" />
       <module name="heima" />
       <extension name="coverage">
         <pattern>
@@ -99,34 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="逻辑运算符" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day03.逻辑运算符" />
-      <module name="heima" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.day03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="作业2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day04.作业2" />
-      <module name="heima" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.day04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="作业3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day04.作业3" />
+    <configuration name="判断三个数最小值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day04.判断三个数最小值" />
       <module name="heima" />
       <extension name="coverage">
         <pattern>
@@ -190,13 +195,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="累加求和偶数for循环" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day04.累加求和偶数for循环" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="switch应用1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day04.switch应用1" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.作业3" />
-        <item itemvalue="应用程序.作业2" />
-        <item itemvalue="应用程序.逻辑运算符" />
-        <item itemvalue="应用程序.作业1" />
-        <item itemvalue="应用程序.跳出循环" />
+        <item itemvalue="应用程序.switch应用1" />
+        <item itemvalue="应用程序.判断三个数最小值" />
+        <item itemvalue="应用程序.用减法实现除法" />
+        <item itemvalue="应用程序.判断是不是回合数" />
+        <item itemvalue="应用程序.累加求和偶数for循环" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +252,7 @@
       <workItem from="1667869843168" duration="276000" />
       <workItem from="1667958798747" duration="5424000" />
       <workItem from="1668951334056" duration="5218000" />
-      <workItem from="1668997705782" duration="3972000" />
+      <workItem from="1668997705782" duration="10778000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1668955435585</created>
@@ -251,7 +282,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668956768957</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commit Message">
+      <created>1669002112604</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1669002112604</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
