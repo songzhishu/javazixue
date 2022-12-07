@@ -1,7 +1,6 @@
 package com.day05;
 
 
-
 public class 数组 {
     public static void main(String[] args) {
         int age[] = {12, 13, 14, 15, 16};
@@ -9,6 +8,9 @@ public class 数组 {
         Double hight[] = {1.80, 1.92, 1.81, 1.83, 1.84};
         //直接输出数组名打印的是数组的物理地址
         System.out.println(age);
+        //int类型的容器可以存储byte,shart,int类型的数据
+        //double类型的容器可以存储byte,shart,int,long,float,double类型的数据
+        System.out.println(age.length);
 
     }
 }
