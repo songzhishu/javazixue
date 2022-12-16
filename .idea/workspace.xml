@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2309ac77-bfc2-4000-be6a-63427071ada1" name="变更" comment="Commit Message">
+      <change afterPath="$PROJECT_DIR$/heima/src/com/day05/变换数据.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima/src/com/day05/数组的动态初始化.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima/src/com/day05/求最值.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima/src/com/day05/统计个数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima/src/com/day05/遍历数组并求和.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/src/com/day05/数组.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima/src/com/day05/数组.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,13 +73,65 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="应用程序.数组">
-    <configuration name="判断是不是回合数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day04.判断是不是回合数" />
+  <component name="RunManager" selected="应用程序.遍历数组求和">
+    <configuration name="变换数据" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day05.变换数据" />
       <module name="heima" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.day04.*" />
+          <option name="PATTERN" value="com.day05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="遍历数组求和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day05.遍历数组求和" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="统计个数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day05.统计个数" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="数组的动态初始化" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day05.数组的动态初始化" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="求最值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day05.求最值" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,38 +230,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="累加求和偶数for循环" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day04.累加求和偶数for循环" />
-      <module name="heima" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.day04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="switch应用1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day04.switch应用1" />
-      <module name="heima" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.day04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.数组" />
-        <item itemvalue="应用程序.switch应用1" />
-        <item itemvalue="应用程序.判断是不是回合数" />
-        <item itemvalue="应用程序.累加求和偶数for循环" />
+        <item itemvalue="应用程序.遍历数组求和" />
+        <item itemvalue="应用程序.求最值" />
+        <item itemvalue="应用程序.数组的动态初始化" />
+        <item itemvalue="应用程序.变换数据" />
+        <item itemvalue="应用程序.统计个数" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +265,8 @@
       <workItem from="1669892135275" duration="3000" />
       <workItem from="1670316001793" duration="546000" />
       <workItem from="1670316638371" duration="1718000" />
-      <workItem from="1670413233990" duration="372000" />
+      <workItem from="1670413233990" duration="1952000" />
+      <workItem from="1671157436903" duration="5181000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1668955435585</created>
@@ -285,7 +317,28 @@
       <option name="project" value="LOCAL" />
       <updated>1670316034568</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Commit Message">
+      <created>1670413835913</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1670413835913</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Commit Message">
+      <created>1670414579977</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1670414579977</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Commit Message">
+      <created>1671158045970</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1671158045970</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
