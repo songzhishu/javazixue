@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2309ac77-bfc2-4000-be6a-63427071ada1" name="变更" comment="Commit Message">
-      <change afterPath="$PROJECT_DIR$/heima/src/com/day05/变换数据.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima/src/com/day05/数组的动态初始化.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima/src/com/day05/求最值.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima/src/com/day05/统计个数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima/src/com/day05/遍历数组并求和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima/src/com/day05/遍历数组求和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima/src/com/day05/作业小数比大小.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima/src/com/day05/作业录入并摆列大小.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima/src/com/day05/作业数组的个十百千.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima/src/com/day05/作业计算学生成绩.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima/src/com/day05/作业随机数求和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima/src/com/day05/变量值的交换.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima/src/com/day05/将数组的首尾交换.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/heima/src/com/day05/打乱数组的数据.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/heima/com/day05/变量值的交换.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/heima/com/day05/将数组的首尾交换.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/heima/com/day05/打乱数组的数据.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2022_12_16_10_34____.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,9 +80,9 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="应用程序.遍历数组求和">
-    <configuration name="变换数据" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day05.变换数据" />
+  <component name="RunManager" selected="应用程序.作业录入并摆列大小">
+    <configuration name="作业数组的个十百千" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day05.作业数组的个十百千" />
       <module name="heima" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +94,47 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="遍历数组求和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day05.遍历数组求和" />
+    <configuration name="作业计算学生成绩" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day05.作业计算学生成绩" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="作业小数比大小" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day05.作业小数比大小" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="作业随机数求和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day05.作业随机数求和" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="作业录入并摆列大小" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day05.作业录入并摆列大小" />
       <module name="heima" />
       <extension name="coverage">
         <pattern>
@@ -192,6 +237,58 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="遍历数组求和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day05.遍历数组求和" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="变量值的交换" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day05.变量值的交换" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="将数组的首尾交换" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day05.将数组的首尾交换" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="打乱数组的数据" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day05.打乱数组的数据" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="作业" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.day03.作业" />
       <module name="heima" />
@@ -231,13 +328,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="遍历数组求和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day05.遍历数组求和" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.遍历数组求和" />
-        <item itemvalue="应用程序.求最值" />
-        <item itemvalue="应用程序.数组的动态初始化" />
-        <item itemvalue="应用程序.变换数据" />
-        <item itemvalue="应用程序.统计个数" />
+        <item itemvalue="应用程序.作业录入并摆列大小" />
+        <item itemvalue="应用程序.作业计算学生成绩" />
+        <item itemvalue="应用程序.作业数组的个十百千" />
+        <item itemvalue="应用程序.作业随机数求和" />
+        <item itemvalue="应用程序.作业小数比大小" />
       </list>
     </recent_temporary>
   </component>
@@ -267,7 +377,9 @@
       <workItem from="1670316001793" duration="546000" />
       <workItem from="1670316638371" duration="1718000" />
       <workItem from="1670413233990" duration="1952000" />
-      <workItem from="1671157436903" duration="5484000" />
+      <workItem from="1671157436903" duration="6199000" />
+      <workItem from="1671928536595" duration="3530000" />
+      <workItem from="1672465640897" duration="7402000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1668955435585</created>
@@ -346,7 +458,28 @@
       <option name="project" value="LOCAL" />
       <updated>1671189702311</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Commit Message">
+      <created>1671189812671</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1671189812671</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Commit Message">
+      <created>1671189823488</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1671189823488</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Commit Message">
+      <created>1671928557439</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1671928557439</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
