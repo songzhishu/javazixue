@@ -2,19 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2309ac77-bfc2-4000-be6a-63427071ada1" name="变更" comment="Commit Message">
-      <change afterPath="$PROJECT_DIR$/heima/src/com/day05/作业小数比大小.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima/src/com/day05/作业录入并摆列大小.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima/src/com/day05/作业数组的个十百千.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima/src/com/day05/作业计算学生成绩.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima/src/com/day05/作业随机数求和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima/src/com/day05/变量值的交换.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima/src/com/day05/将数组的首尾交换.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heima/src/com/day05/打乱数组的数据.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/heima/com/day05/变量值的交换.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/heima/com/day05/将数组的首尾交换.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/heima/com/day05/打乱数组的数据.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2022_12_16_10_34____.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/heima/com/day05/作业小数比大小.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/heima/com/day05/作业录入并摆列大小.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/heima/com/day05/作业数组的个十百千.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/heima/com/day05/作业计算学生成绩.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/heima/com/day05/作业随机数求和.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -379,7 +371,7 @@
       <workItem from="1670413233990" duration="1952000" />
       <workItem from="1671157436903" duration="6199000" />
       <workItem from="1671928536595" duration="3530000" />
-      <workItem from="1672465640897" duration="7402000" />
+      <workItem from="1672465640897" duration="8050000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1668955435585</created>
@@ -479,7 +471,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671928557439</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Commit Message">
+      <created>1672474846746</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1672474846746</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Commit Message">
+      <created>1672475420081</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1672475420081</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
