@@ -26,6 +26,7 @@ public class 飞机票 {
                 case 2:
                     ticket = x * 0.85;
                     break;
+
             }
 
         } else {
