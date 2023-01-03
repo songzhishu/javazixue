@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2309ac77-bfc2-4000-be6a-63427071ada1" name="变更" comment="Commit Message">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/heima/com/day06/作业三元运算符判断大小.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/heima/com/day06/作业三元运算符判断大小.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/heima/com/day06/作业判断一个数的位数.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/heima/com/day06/作业判断一个数的位数.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/heima/com/day06/作业判断数组是否相同.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/heima/com/day06/作业判断数组是否相同.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/heima/com/day07/飞机票.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/heima/com/day07/飞机票.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -530,7 +526,7 @@
       <workItem from="1672544203431" duration="8356000" />
       <workItem from="1672569770807" duration="5167000" />
       <workItem from="1672622254030" duration="19748000" />
-      <workItem from="1672703977307" duration="2424000" />
+      <workItem from="1672703977307" duration="3324000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1668955435585</created>
@@ -742,7 +738,21 @@
       <option name="project" value="LOCAL" />
       <updated>1672660658276</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Commit Message">
+      <created>1672706722150</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1672706722150</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Commit Message">
+      <created>1672706729368</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1672706729368</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
