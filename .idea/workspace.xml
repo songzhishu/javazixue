@@ -68,7 +68,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="应用程序.找出质数">
+  <component name="RunManager" selected="应用程序.评委打分">
     <configuration name="作业判断一个数的位数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.day06.作业判断一个数的位数" />
       <module name="heima" />
@@ -84,6 +84,32 @@
     </configuration>
     <configuration name="找出质数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.day07.找出质数" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="开发验证码" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day07.开发验证码" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="评委打分" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day07.评委打分" />
       <module name="heima" />
       <extension name="coverage">
         <pattern>
@@ -487,6 +513,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.评委打分" />
+        <item itemvalue="应用程序.开发验证码" />
         <item itemvalue="应用程序.找出质数" />
         <item itemvalue="应用程序.day" />
         <item itemvalue="应用程序.作业判断一个数的位数" />
@@ -526,7 +554,7 @@
       <workItem from="1672544203431" duration="8356000" />
       <workItem from="1672569770807" duration="5167000" />
       <workItem from="1672622254030" duration="19748000" />
-      <workItem from="1672703977307" duration="3324000" />
+      <workItem from="1672703977307" duration="11449000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1668955435585</created>
@@ -752,7 +780,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672706729368</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Commit Message">
+      <created>1672712164855</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1672712164855</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
