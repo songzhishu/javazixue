@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2309ac77-bfc2-4000-be6a-63427071ada1" name="变更" comment="Commit Message">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/src/com/day07/数值加密.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima/src/com/day07/数值加密.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/heima/com/day07/数值加密.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/heima/com/day07/数值加密.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,9 +68,35 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="应用程序.数值加密">
+  <component name="RunManager" selected="应用程序.模拟双色球">
     <configuration name="数值加密" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.day07.数值加密" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="抽奖" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day07.抽奖" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="模拟双色球" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day07.模拟双色球" />
       <module name="heima" />
       <extension name="coverage">
         <pattern>
@@ -515,6 +539,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.模拟双色球" />
+        <item itemvalue="应用程序.抽奖" />
         <item itemvalue="应用程序.数值加密" />
         <item itemvalue="应用程序.aa" />
       </list>
@@ -555,7 +581,7 @@
       <workItem from="1672622254030" duration="19748000" />
       <workItem from="1672703977307" duration="14097000" />
       <workItem from="1672747795412" duration="1912000" />
-      <workItem from="1672790899856" duration="6592000" />
+      <workItem from="1672790899856" duration="18179000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1668955435585</created>
@@ -809,7 +835,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672795588155</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Commit Message">
+      <created>1672802309687</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1672802309687</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
