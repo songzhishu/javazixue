@@ -1,4 +1,4 @@
-package com.day08.类;
+package com.day08.javabean类;
 
 public class phone {
     public String name;

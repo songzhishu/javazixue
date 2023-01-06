@@ -1,6 +1,6 @@
-package com.day08;
+package com.day08.测试类;
 
-import com.day08.类.phone;
+import com.day08.javabean类.phone;
 
 public class 手机测试 {
     public static void main(String[] args) {
