@@ -12,5 +12,6 @@ public class phone {
     public void playgame() {
         System.out.println("打游戏啊!");
     }
-//定义一个手机类
+//类的定义就是:用于描述事物的共同特征的描述
+    //而对象则是具体的某一事物
 }

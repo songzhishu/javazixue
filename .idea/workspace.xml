@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2309ac77-bfc2-4000-be6a-63427071ada1" name="变更" comment="Commit Message">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima/src/com/day08/手机测试.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima/src/com/day08/手机测试.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -621,7 +621,7 @@
       <workItem from="1672747795412" duration="1912000" />
       <workItem from="1672790899856" duration="18841000" />
       <workItem from="1672886892472" duration="7656000" />
-      <workItem from="1672977644560" duration="761000" />
+      <workItem from="1672977644560" duration="1222000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <created>1668955435585</created>
@@ -896,7 +896,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672890922043</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Commit Message">
+      <created>1672983985632</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1672983985632</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
