@@ -77,5 +77,25 @@ public class 面向对象 {
         //ctrl+w  小范围的选中
 
 
+        //当我们创建一个类的时候
+        /*public class characters(){
+            int age;
+            String name;
+            double weight;
+        }*/
+        //我们声明了一个类,然后我们创建两个对象
+        /*characters objectA=new characters();
+        characters objectB=new characters();*/
+        //此时A和B指向的是两块不同的空间
+        /*objectA=objectB;*/
+        //经过上面的操作以后,objetA此时指向的空间地址是objectB的
+        //那么此时两者就是完全相同的实例了,这里假设创建对象后并且给对象的属性赋值
+        //即分配的内存空间上都有对应的数据,但是因为将B的地址赋值给了A也就导致此时
+        //A内存以前的数据将没有办法访问,导致这块内存地址被占用
+        //但是在java里有一种"垃圾回收的机制",它可以定期检测某个内存空间是否将不会在
+        //被任何对象所调用,如果是那么它将会释放这些被占用的内存
+
+        /*System.out.println(objectA);//输出A对象的物理地址
+        System.out.println(objectB);//输出B对象的物理地址*/
     }
 }
