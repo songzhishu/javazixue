@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LeetcodeEditor">
+    <option name="projectConfig">
+      <map>
+        <entry key="$PROJECT_DIR$/../../LeeCode/leetcode/editor/cn/[283]移动零.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../LeeCode/leetcode/editor/cn/doc/content/[283]移动零.md" />
+              <option name="frontendQuestionId" value="leetcode.cn283" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../LeeCode/leetcode/editor/cn/[283]移动零.java" />
+              <option name="titleSlug" value="move-zeroes" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../LeeCode/leetcode/editor/cn/[289]生命游戏.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/../../LeeCode/leetcode/editor/cn/doc/content/[289]生命游戏.md" />
+              <option name="frontendQuestionId" value="leetcode.cn289" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/../../LeeCode/leetcode/editor/cn/[289]生命游戏.java" />
+              <option name="titleSlug" value="game-of-life" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
