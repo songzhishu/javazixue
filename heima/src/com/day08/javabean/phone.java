@@ -5,12 +5,13 @@ public class phone {
     private double price;
     private String color;
 
-    public void call() {
-        System.out.println("正在使用价格为" + price + "元" + color + "的" + brand + "手机" + "打电话");
+    public phone() {
     }
 
-    public void sendAMessage() {
-        System.out.println("正在使用价格为" + price + "元" + color + "的" + brand + "手机" + "发短信");
+    public phone(String brand, double price, String color) {
+        this.brand = brand;
+        this.price = price;
+        this.color = color;
     }
 
     public String getBrand() {

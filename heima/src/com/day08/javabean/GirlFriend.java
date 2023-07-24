@@ -3,21 +3,18 @@ package com.day08.javabean;
 public class GirlFriend {
     //属性
     private String name;
-    private double height;
+    private int age;
     private Double weight;
+    private double height;
 
-    //行为
-    public void wash() {
-        System.out.println("女朋友在洗衣服");
-
+    public GirlFriend() {
     }
 
-    public void cook() {
-        System.out.println("女朋友在做饭");
-    }
-
-    public void show() {
-        System.out.println("我女朋友" + name + "身高" + height + "体重" + weight);
+    public GirlFriend(String name, int age, Double weight, double height) {
+        this.name = name;
+        this.age = age;
+        this.weight = weight;
+        this.height = height;
     }
 
     public String getName() {
@@ -28,12 +25,12 @@ public class GirlFriend {
         this.name = name;
     }
 
-    public double getHeight() {
-        return height;
+    public int getAge() {
+        return age;
     }
 
-    public void setHeight(double height) {
-        this.height = height;
+    public void setAge(int age) {
+        this.age = age;
     }
 
     public Double getWeight() {
@@ -42,5 +39,13 @@ public class GirlFriend {
 
     public void setWeight(Double weight) {
         this.weight = weight;
+    }
+
+    public double getHeight() {
+        return height;
+    }
+
+    public void setHeight(double height) {
+        this.height = height;
     }
 }
