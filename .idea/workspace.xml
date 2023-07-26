@@ -81,7 +81,7 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.语言默认值",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -90,7 +90,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="应用程序.敏感词汇屏蔽">
+  <component name="RunManager" selected="应用程序.StringJoiner测试">
     <configuration name="金额转换" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.day09.金额转换" />
       <module name="heima" />
@@ -104,8 +104,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="手机号屏蔽" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day09.手机号屏蔽" />
+    <configuration name="对称字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day09.对称字符串" />
       <module name="heima" />
       <extension name="coverage">
         <pattern>
@@ -117,8 +117,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="身份证查看" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day09.身份证查看" />
+    <configuration name="StringBuilder测试" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day09.StringBuilder测试" />
       <module name="heima" />
       <extension name="coverage">
         <pattern>
@@ -130,8 +130,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="敏感词汇屏蔽" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day09.敏感词汇屏蔽" />
+    <configuration name="使用StringBuilder拼接数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day09.使用StringBuilder拼接数组" />
       <module name="heima" />
       <extension name="coverage">
         <pattern>
@@ -143,77 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day09.UserLogin" />
+    <configuration name="StringJoiner测试" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day09.StringJoiner测试" />
       <module name="heima" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.day09.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day05.数组" />
-      <module name="heima" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.day05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="方法数组遍历求大值判断是不是在数组中" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day06.方法数组遍历求大值判断是不是在数组中" />
-      <module name="heima" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.day06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="作业判断一个数的位数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day06.作业判断一个数的位数" />
-      <module name="heima" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.day06.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="二位数组转置" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day07.二位数组转置" />
-      <module name="heima" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.day07.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="矩阵的逆" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.矩阵.矩阵的逆" />
-      <module name="heima" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.矩阵.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -351,6 +286,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="手机号屏蔽" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day09.手机号屏蔽" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="作业计算学生成绩" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.day05.作业计算学生成绩" />
       <module name="heima" />
@@ -474,6 +422,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.矩阵.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="身份证查看" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day09.身份证查看" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -611,6 +572,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="敏感词汇屏蔽" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day09.敏感词汇屏蔽" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="评委打分" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.day07.评委打分" />
       <module name="heima" />
@@ -741,6 +715,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day05.数组" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="用重载判断数据是否一样" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.day06.用重载判断数据是否一样" />
       <module name="heima" />
@@ -780,13 +767,65 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="方法数组遍历求大值判断是不是在数组中" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day06.方法数组遍历求大值判断是不是在数组中" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="作业判断一个数的位数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day06.作业判断一个数的位数" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="二位数组转置" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day07.二位数组转置" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day07.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="矩阵的逆" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.矩阵.矩阵的逆" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.矩阵.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="应用程序.敏感词汇屏蔽" />
-        <item itemvalue="应用程序.身份证查看" />
-        <item itemvalue="应用程序.手机号屏蔽" />
+        <item itemvalue="应用程序.StringJoiner测试" />
+        <item itemvalue="应用程序.使用StringBuilder拼接数组" />
+        <item itemvalue="应用程序.对称字符串" />
+        <item itemvalue="应用程序.StringBuilder测试" />
         <item itemvalue="应用程序.金额转换" />
-        <item itemvalue="应用程序.UserLogin" />
       </list>
     </recent_temporary>
   </component>
@@ -860,21 +899,8 @@
       <workItem from="1690096201555" duration="6092000" />
       <workItem from="1690159547690" duration="4595000" />
       <workItem from="1690180620860" duration="12202000" />
-      <workItem from="1690246050869" duration="5921000" />
-    </task>
-    <task id="LOCAL-00015" summary="Commit Message">
-      <created>1672474846746</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1672474846746</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Commit Message">
-      <created>1672475420081</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1672475420081</updated>
+      <workItem from="1690246050869" duration="6538000" />
+      <workItem from="1690272947735" duration="6565000" />
     </task>
     <task id="LOCAL-00017" summary="Commit Message">
       <created>1672475470796</created>
@@ -1205,7 +1231,21 @@
       <option name="project" value="LOCAL" />
       <updated>1690193208669</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Commit Message">
+      <created>1690252385369</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1690252385369</updated>
+    </task>
+    <task id="LOCAL-00065" summary="Commit Message">
+      <created>1690254549028</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1690254549028</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
