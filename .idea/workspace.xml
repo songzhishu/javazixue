@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="2309ac77-bfc2-4000-be6a-63427071ada1" name="变更" comment="Commit Message">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/heima/com/day09/StringBuilder测试.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/heima/com/day09/StringBuilder测试.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,39 +90,13 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="应用程序.统计特殊字符">
-    <configuration name="统计字符大小写" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day09.统计字符大小写" />
+  <component name="RunManager" selected="应用程序.ArraylistStudent">
+    <configuration name="数字集合" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day10.数字集合" />
       <module name="heima" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.day09.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="输入字符打乱" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day09.输入字符打乱" />
-      <module name="heima" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.day09.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="验证码升级" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day09.验证码升级" />
-      <module name="heima" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.day09.*" />
+          <option name="PATTERN" value="com.day10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +117,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringBuilder测试" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day09.StringBuilder测试" />
+    <configuration name="字符串转换" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day09.字符串转换" />
       <module name="heima" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.day09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraylistStudent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day10.ArraylistStudent" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraylistTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day10.ArraylistTest" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -861,11 +860,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.ArraylistStudent" />
+        <item itemvalue="应用程序.数字集合" />
+        <item itemvalue="应用程序.ArraylistTest" />
+        <item itemvalue="应用程序.字符串转换" />
         <item itemvalue="应用程序.统计特殊字符" />
-        <item itemvalue="应用程序.统计字符大小写" />
-        <item itemvalue="应用程序.验证码升级" />
-        <item itemvalue="应用程序.输入字符打乱" />
-        <item itemvalue="应用程序.StringBuilder测试" />
       </list>
     </recent_temporary>
   </component>
@@ -942,14 +941,7 @@
       <workItem from="1690246050869" duration="6538000" />
       <workItem from="1690272947735" duration="6565000" />
       <workItem from="1690332374283" duration="8625000" />
-      <workItem from="1690353385677" duration="5173000" />
-    </task>
-    <task id="LOCAL-00019" summary="Commit Message">
-      <created>1672544281484</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1672544281484</updated>
+      <workItem from="1690353385677" duration="11376000" />
     </task>
     <task id="LOCAL-00020" summary="Commit Message">
       <created>1672544409421</created>
@@ -1287,7 +1279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690353488420</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Commit Message">
+      <created>1690358813489</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1690358813489</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
