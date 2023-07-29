@@ -4,7 +4,10 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 public class ManagementSystem {
-    public static void main(String[] args) {
+    public static void startstudentsystem() {
+
+        Scanner sr = new Scanner(System.in);
+
         //创建集合
         ArrayList<Student> list = new ArrayList<>();
         loop:
@@ -18,7 +21,6 @@ public class ManagementSystem {
             System.out.println("请输入您的选择:");
 
             //输入选择
-            Scanner sr = new Scanner(System.in);
             String option = sr.next();
 
             switch (option) {
@@ -37,6 +39,7 @@ public class ManagementSystem {
 
 
     }
+
 
     //添加
     public static void addstudent(ArrayList<Student> list) {
@@ -88,7 +91,7 @@ public class ManagementSystem {
     //修改
     public static void modifystudent(ArrayList<Student> list) {
         //输入
-        System.out.println("输入你要删除的id:");
+        System.out.println("输入你要修改的id:");
         Scanner sr = new Scanner(System.in);
         String id = sr.next();
         if (getindex(list, id) != -1) {
@@ -140,6 +143,7 @@ public class ManagementSystem {
         }
         return -1;
     }
+
 
 }
 
