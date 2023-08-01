@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="2309ac77-bfc2-4000-be6a-63427071ada1" name="变更" comment="Commit Message">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/src/com/day13/jicheng3/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima/src/com/day13/jicheng3/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/src/com/day13/jicheng3/works.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima/src/com/day13/jicheng3/works.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima/src/com/day13/jicheng5/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima/src/com/day13/jicheng5/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,20 +94,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="应用程序.com.day13.jicheng3.test">
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day13.jicheng.Test" />
-      <module name="heima" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.day13.jicheng.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.com.day13.jicheng5.test">
     <configuration name="统计特殊字符" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.day09.统计特殊字符" />
       <module name="heima" />
@@ -785,19 +771,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.day13.StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day13.StudentTest" />
-      <module name="heima" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.day13.jicheng.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="com.day13.jicheng2.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.day13.jicheng2.test" />
       <module name="heima" />
@@ -817,6 +790,32 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.day13.jicheng3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.day13.jicheng4.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day13.jicheng4.test" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day13.jicheng4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.day13.jicheng5.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day13.jicheng5.test" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day13.jicheng5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -852,11 +851,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.com.day13.jicheng5.test" />
+        <item itemvalue="应用程序.com.day13.jicheng4.test" />
         <item itemvalue="应用程序.com.day13.jicheng3.test" />
         <item itemvalue="应用程序.com.day13.jicheng2.test" />
         <item itemvalue="应用程序.test" />
-        <item itemvalue="应用程序.Test" />
-        <item itemvalue="应用程序.com.day13.StudentTest" />
       </list>
     </recent_temporary>
   </component>
@@ -940,14 +939,7 @@
       <workItem from="1690590717485" duration="22139000" />
       <workItem from="1690682636723" duration="9604000" />
       <workItem from="1690765040309" duration="11722000" />
-      <workItem from="1690855195786" duration="1556000" />
-    </task>
-    <task id="LOCAL-00027" summary="Commit Message">
-      <created>1672624430377</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1672624430377</updated>
+      <workItem from="1690855195786" duration="4883000" />
     </task>
     <task id="LOCAL-00028" summary="Commit Message">
       <created>1672657825522</created>
@@ -1285,7 +1277,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690798155570</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="Commit Message">
+      <created>1690856964747</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1690856964747</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
