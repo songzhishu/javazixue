@@ -6,7 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2309ac77-bfc2-4000-be6a-63427071ada1" name="变更" comment="Commit Message">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heima/src/com/day13/jicheng5/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima/src/com/day13/jicheng5/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/heima/com/day13/jicheng4/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/heima/com/day13/jicheng4/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/heima/com/day13/jicheng5/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/heima/com/day13/jicheng5/Teacher.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +95,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="应用程序.com.day13.jicheng5.test">
+  <component name="RunManager" selected="应用程序.com.day13.jicheng6.test">
     <configuration name="统计特殊字符" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.day09.统计特殊字符" />
       <module name="heima" />
@@ -771,25 +772,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.day13.jicheng2.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day13.jicheng2.test" />
+    <configuration name="com.day13.fengzhuang.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day13.fengzhuang.test" />
       <module name="heima" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.day13.jicheng2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="com.day13.jicheng3.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day13.jicheng3.test" />
-      <module name="heima" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.day13.jicheng3.*" />
+          <option name="PATTERN" value="com.day13.fengzhuang.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -823,6 +811,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.day13.jicheng6.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day13.jicheng6.test" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day13.jicheng6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="dogtest" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.day13.dogtest" />
       <module name="heima" />
@@ -837,11 +838,11 @@
       </method>
     </configuration>
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day13.test" />
+      <option name="MAIN_CLASS_NAME" value="com.day13.jicheng1.test" />
       <module name="heima" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.day13.*" />
+          <option name="PATTERN" value="com.day13.jicheng1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -851,11 +852,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.com.day13.jicheng6.test" />
+        <item itemvalue="应用程序.test" />
+        <item itemvalue="应用程序.com.day13.fengzhuang.test" />
         <item itemvalue="应用程序.com.day13.jicheng5.test" />
         <item itemvalue="应用程序.com.day13.jicheng4.test" />
-        <item itemvalue="应用程序.com.day13.jicheng3.test" />
-        <item itemvalue="应用程序.com.day13.jicheng2.test" />
-        <item itemvalue="应用程序.test" />
       </list>
     </recent_temporary>
   </component>
@@ -939,14 +940,7 @@
       <workItem from="1690590717485" duration="22139000" />
       <workItem from="1690682636723" duration="9604000" />
       <workItem from="1690765040309" duration="11722000" />
-      <workItem from="1690855195786" duration="4883000" />
-    </task>
-    <task id="LOCAL-00028" summary="Commit Message">
-      <created>1672657825522</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1672657825522</updated>
+      <workItem from="1690855195786" duration="10061000" />
     </task>
     <task id="LOCAL-00029" summary="Commit Message">
       <created>1672657830612</created>
@@ -1284,7 +1278,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690856964747</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Commit Message">
+      <created>1690873678454</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1690873678454</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
