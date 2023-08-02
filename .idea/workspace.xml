@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="2309ac77-bfc2-4000-be6a-63427071ada1" name="变更" comment="Commit Message">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/heima/com/day13/jicheng4/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/heima/com/day13/jicheng4/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/heima/com/day13/jicheng5/Teacher.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/heima/com/day13/jicheng5/Teacher.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima/src/com/day13/jicheng6/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima/src/com/day13/jicheng6/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/heima/src/com/day14/jiekou1/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/heima/src/com/day14/jiekou1/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +20,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -95,124 +96,7 @@
     ]
   }
 }</component>
-  <component name="RunManager" selected="应用程序.com.day13.jicheng6.test">
-    <configuration name="统计特殊字符" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day09.统计特殊字符" />
-      <module name="heima" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.day09.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="关系运算符" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day03.关系运算符" />
-      <module name="heima" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.day03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="找出质数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day07.找出质数" />
-      <module name="heima" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.day07.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="矩阵的逆" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.矩阵.矩阵的逆" />
-      <module name="heima" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.矩阵.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="作业小数比大小" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day05.作业小数比大小" />
-      <module name="heima" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.day05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="遍历字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day09.遍历字符串" />
-      <module name="heima" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.day09.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="判断三个数最小值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day04.判断三个数最小值" />
-      <module name="heima" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.day04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="手机号屏蔽" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day09.手机号屏蔽" />
-      <module name="heima" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.day09.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="用减法实现除法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day04.用减法实现除法" />
-      <module name="heima" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.day04.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="应用程序.com.day14.jiekou1.test">
     <configuration name="统计个数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.day05.统计个数" />
       <module name="heima" />
@@ -343,6 +227,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="关系运算符" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day03.关系运算符" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="统计字符大小写" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.day09.统计字符大小写" />
       <module name="heima" />
@@ -453,6 +350,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.day06.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="找出质数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day07.找出质数" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day07.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -603,6 +513,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="矩阵的逆" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.矩阵.矩阵的逆" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.矩阵.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="手机测试" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.day08.手机测试" />
       <module name="heima" />
@@ -733,6 +656,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="作业小数比大小" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day05.作业小数比大小" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="打乱数组的数据" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.day05.打乱数组的数据" />
       <module name="heima" />
@@ -772,12 +708,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.day13.fengzhuang.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day13.fengzhuang.test" />
+    <configuration name="遍历字符串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day09.遍历字符串" />
       <module name="heima" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.day13.fengzhuang.*" />
+          <option name="PATTERN" value="com.day09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -785,12 +721,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.day13.jicheng4.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day13.jicheng4.test" />
+    <configuration name="判断三个数最小值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day04.判断三个数最小值" />
       <module name="heima" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.day13.jicheng4.*" />
+          <option name="PATTERN" value="com.day04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -798,12 +734,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.day13.jicheng5.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.day13.jicheng5.test" />
+    <configuration name="手机号屏蔽" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day09.手机号屏蔽" />
       <module name="heima" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.day13.jicheng5.*" />
+          <option name="PATTERN" value="com.day09.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="用减法实现除法" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day04.用减法实现除法" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -817,6 +766,45 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.day13.jicheng6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.day14.chouxiang.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day14.chouxiang.test" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day14.chouxiang.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.day14.jiekou1.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day14.jiekou1.test" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day14.jiekou1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.day14.jiekou.test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.day14.jiekou.test" />
+      <module name="heima" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.day14.jiekou.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -852,11 +840,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.com.day14.jiekou1.test" />
+        <item itemvalue="应用程序.com.day14.jiekou.test" />
+        <item itemvalue="应用程序.com.day14.chouxiang.test" />
         <item itemvalue="应用程序.com.day13.jicheng6.test" />
         <item itemvalue="应用程序.test" />
-        <item itemvalue="应用程序.com.day13.fengzhuang.test" />
-        <item itemvalue="应用程序.com.day13.jicheng5.test" />
-        <item itemvalue="应用程序.com.day13.jicheng4.test" />
       </list>
     </recent_temporary>
   </component>
@@ -940,14 +928,8 @@
       <workItem from="1690590717485" duration="22139000" />
       <workItem from="1690682636723" duration="9604000" />
       <workItem from="1690765040309" duration="11722000" />
-      <workItem from="1690855195786" duration="10061000" />
-    </task>
-    <task id="LOCAL-00029" summary="Commit Message">
-      <created>1672657830612</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1672657830612</updated>
+      <workItem from="1690855195786" duration="11626000" />
+      <workItem from="1690938920736" duration="7704000" />
     </task>
     <task id="LOCAL-00030" summary="Commit Message">
       <created>1672660658276</created>
@@ -1285,7 +1267,14 @@
       <option name="project" value="LOCAL" />
       <updated>1690873678454</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="Commit Message">
+      <created>1690878562428</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1690878562428</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
