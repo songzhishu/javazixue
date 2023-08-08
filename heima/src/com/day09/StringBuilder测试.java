@@ -6,14 +6,14 @@ public class StringBuilder测试 {
         StringBuilder sb = new StringBuilder();
 
         //查看容量
-        System.out.println(sb.capacity());
+       /* System.out.println(sb.capacity());
 
         //链式编程,就是我们在调用一个方法的时候,不需要用变量去接收他的结果,直接可以调用其他的方法
         //添加元素
-        /*sb.append("aaa");
+        *//*sb.append("aaa");
         sb.append('大');
         sb.append(23);
-        sb.append(true);*/
+        sb.append(true);*//*
 
         sb.append(223).append('小').append("123141").append(true).reverse().length();
         System.out.println(sb);
@@ -31,8 +31,17 @@ public class StringBuilder测试 {
         System.out.println(sb.length());
 
         String str = sb.toString();
-        System.out.println(str);
+        System.out.println(str);*/
 
+
+        String[] arr = {"h", "e", "l", "l", "o"};
+        /*String arr1=arr.toString();
+
+        for (int i = 0; i < arr1.length(); i++) {
+            System.out.println(arr1.charAt(i));
+        }*/
+        sb.append(arr);
+        System.out.println(sb.reverse());
 
     }
 }
