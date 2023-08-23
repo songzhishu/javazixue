@@ -7,5 +7,7 @@
     </content>
     <orderEntry type="jdk" jdkName="18" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="commons-io-2.13.0" level="project" />
+    <orderEntry type="library" name="hutool-all-5.8.16" level="project" />
   </component>
 </module>
